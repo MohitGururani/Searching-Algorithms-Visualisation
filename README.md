@@ -1,6 +1,3 @@
-# Running Project Link
-
-Theis project is live [here](https://search-algo-visualiser.netlify.app/)
 
 # Getting Started with Create React App
 
