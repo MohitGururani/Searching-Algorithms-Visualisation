@@ -16,11 +16,11 @@ function Footer() {
   return (
     <div style={containerStyle}>
       <div>
-        <h3>Made by Shubham Tiwari</h3>
+        <h3>Made by Mohit Gururani</h3>
       </div>
       <div style={innerContainer}>
         <h4>Contact&nbsp;</h4>
-        <h4>st8896464352@gmail.com&nbsp;</h4>
+        <h4>mohitgururani12@gmail.com&nbsp;</h4>
       </div>
     </div>
   );
